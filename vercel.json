@@ -4,7 +4,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/index_1.html"
+      "destination": "/index_1"
     }
   ]
 }
